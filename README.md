@@ -31,7 +31,7 @@ Follow these steps to clone and run the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Mudassar-Shehzad/Tic-Tac-Toe.git
 2. **Navigate to the project folder**:
    ```bash
    cd tictactoe
