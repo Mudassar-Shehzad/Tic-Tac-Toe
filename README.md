@@ -35,4 +35,4 @@ Follow these steps to clone and run the project on your local machine:
 2. **Navigate to the project folder**:
    ```bash
    cd tictactoe
-3. **Open live serverr.**
+3. **Open live server.**
