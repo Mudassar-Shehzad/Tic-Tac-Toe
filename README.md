@@ -23,12 +23,7 @@ This is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The ga
 ## 💻 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-
-## 🌐 Pages & Sections
-
-- **Board**: The main game area where players interact with the game.
-- **Reset Button**: A button to reset the game and clear the board.
-- **Winner Display**: Shows the winner's message when a player wins.
+.
 
 ## ⚙️ How to Run Locally
 
@@ -40,5 +35,4 @@ Follow these steps to clone and run the project on your local machine:
 2. **Navigate to the project folder**:
    ```bash
    cd tictactoe
-
-Open live server.
+3. **Open live serverr.**
